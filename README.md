@@ -3,7 +3,6 @@
 > An intelligent salary prediction system for Tech / Software Engineering roles.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
-![Claude AI](https://img.shields.io/badge/Claude-Sonnet_4-blueviolet?style=flat-square)
 ![Tailwind](https://img.shields.io/badge/Styling-CSS_in_JS-38BDF8?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
