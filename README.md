@@ -16,7 +16,6 @@
 - 🛠️ **Skill stack boost** — See which skills command the highest premium
 - 📊 **Percentile breakdown** — P25, Median, P75 salary ranges
 - 📈 **Market trend** — Rising / Stable / Declining with AI reasoning
-- 💡 **AI Insights** — 3 personalized tips from Claude AI
 - 📉 **Comparison chart** — Your estimate vs Junior & Senior averages
 
 ---
@@ -38,11 +37,7 @@ salary-predictor/
 ---
 
 ## ⚙️ Setup & Usage
-
-### Option 1 — Run in Claude.ai Artifacts
-Paste `salary-predictor.jsx` directly into a Claude.ai React artifact and it runs instantly.
-
-### Option 2 — Run locally with Vite
+### Option 1 — Run locally with Vite
 
 ```bash
 # 1. Clone the repo
@@ -58,26 +53,6 @@ npm install
 # 4. Start the dev server
 npm run dev
 ```
-
----
-
-## 🤖 How It Works
-
-1. User fills in: Job Title, Experience, Location, Education, and Skills
-2. The app sends a structured prompt to **Claude Sonnet** via the Anthropic API
-3. Claude returns a JSON payload with salary range, percentiles, trend, skill boosts, and insights
-4. The UI renders the results with animated charts and cards
-
----
-
-## 🧠 AI Model
-
-| Property | Value |
-|----------|-------|
-| Model | `claude-sonnet-4-20250514` |
-| Provider | Anthropic |
-| Input | Structured profile prompt |
-| Output | JSON salary analysis |
 
 ---
 
