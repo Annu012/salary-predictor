@@ -1,6 +1,6 @@
 # 💼 AI-Powered Salary Predictor
 
-> An intelligent salary prediction system for Tech / Software Engineering roles, powered by Claude AI.
+> An intelligent salary prediction system for Tech / Software Engineering roles.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![Claude AI](https://img.shields.io/badge/Claude-Sonnet_4-blueviolet?style=flat-square)
